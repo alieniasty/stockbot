@@ -1,0 +1,8 @@
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\bin\Debug\netcoreapp2.2\Parser.deps.json
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\bin\Debug\netcoreapp2.2\Parser.dll
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\bin\Debug\netcoreapp2.2\Parser.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\obj\Debug\netcoreapp2.2\Parser.fsprojAssemblyReference.cache
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\obj\Debug\netcoreapp2.2\Parser.AssemblyInfoInputs.cache
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\obj\Debug\netcoreapp2.2\Parser.AssemblyInfo.fs
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\obj\Debug\netcoreapp2.2\Parser.dll
+C:\Users\Adrian\Documents\Repos\stockbot\Parser\obj\Debug\netcoreapp2.2\Parser.pdb
