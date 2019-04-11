@@ -1,12 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StockBot", "StockBot\StockBot.fsproj", "{01045C64-8ADD-41DE-81D4-F2476B9365C9}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.App", "stockbot.App\stockbot.App.fsproj", "{01045C64-8ADD-41DE-81D4-F2476B9365C9}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Parser", "Parser\Parser.fsproj", "{1CC161F0-9E3C-4209-96D8-7C8B1609E2E9}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Parser", "stockbot.Parser\stockbot.Parser.fsproj", "{1CC161F0-9E3C-4209-96D8-7C8B1609E2E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{32539D81-7C66-4F7A-B564-9DB4B9CB0CA8}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Parser.Tests", "Parser.Tests\Parser.Tests.fsproj", "{E2DDD96E-686D-47D8-A7EC-C405392A2739}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Parser.Tests", "stockbot.Parser.Tests\stockbot.Parser.Tests.fsproj", "{E2DDD96E-686D-47D8-A7EC-C405392A2739}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Common", "stockbot.Common\stockbot.Common.fsproj", "{99A1E874-069B-42CF-A159-AA507179BF31}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Data", "stockbot.Data\stockbot.Data.fsproj", "{0782790F-4053-490D-B695-20ABC8FF398F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +30,14 @@ Global
 		{E2DDD96E-686D-47D8-A7EC-C405392A2739}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2DDD96E-686D-47D8-A7EC-C405392A2739}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2DDD96E-686D-47D8-A7EC-C405392A2739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A1E874-069B-42CF-A159-AA507179BF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A1E874-069B-42CF-A159-AA507179BF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A1E874-069B-42CF-A159-AA507179BF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A1E874-069B-42CF-A159-AA507179BF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0782790F-4053-490D-B695-20ABC8FF398F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0782790F-4053-490D-B695-20ABC8FF398F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0782790F-4053-490D-B695-20ABC8FF398F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0782790F-4053-490D-B695-20ABC8FF398F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E2DDD96E-686D-47D8-A7EC-C405392A2739} = {32539D81-7C66-4F7A-B564-9DB4B9CB0CA8}

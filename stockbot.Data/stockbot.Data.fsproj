@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AssemblyName>stockbot.Data</AssemblyName>
+        <RootNamespace>stockbot.Data</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="StockData.fs" />
+        <Compile Include="TickerData.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FSharp.Data" Version="3.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\stockbot.Common\stockbot.Common.fsproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="StockPrices.csv">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+</Project>

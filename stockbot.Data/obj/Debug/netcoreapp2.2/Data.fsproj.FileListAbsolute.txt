@@ -1,0 +1,11 @@
+C:\Users\Adrian\Documents\Repos\stockbot\Data\obj\Debug\netcoreapp2.2\Data.fsprojAssemblyReference.cache
+C:\Users\Adrian\Documents\Repos\stockbot\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\Adrian\Documents\Repos\stockbot\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.fs
+C:\Users\Adrian\Documents\Repos\stockbot\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\Adrian\Documents\Repos\stockbot\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Adrian\Documents\Repos\stockbot\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\Data\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Adrian\Documents\Repos\stockbot\Data\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\Data\obj\Debug\netcoreapp2.2\Data.fsproj.CopyComplete
+C:\Users\Adrian\Documents\Repos\stockbot\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\Adrian\Documents\Repos\stockbot\Data\obj\Debug\netcoreapp2.2\Data.pdb

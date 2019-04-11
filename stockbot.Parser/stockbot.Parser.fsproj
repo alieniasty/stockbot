@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AssemblyName>stockbot.Parser</AssemblyName>
+        <RootNamespace>stockbot.Parser</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Parser.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\stockbot.Common\stockbot.Common.fsproj" />
+      <ProjectReference Include="..\stockbot.Data\stockbot.Data.fsproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\bin\Debug\netcoreapp2.2\stockbot.Data.deps.json
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\bin\Debug\netcoreapp2.2\stockbot.Data.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\bin\Debug\netcoreapp2.2\stockbot.Data.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\bin\Debug\netcoreapp2.2\stockbot.Common.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\bin\Debug\netcoreapp2.2\stockbot.Common.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\obj\Debug\netcoreapp2.2\stockbot.Data.fsprojAssemblyReference.cache
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\obj\Debug\netcoreapp2.2\stockbot.Data.AssemblyInfoInputs.cache
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\obj\Debug\netcoreapp2.2\stockbot.Data.AssemblyInfo.fs
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\obj\Debug\netcoreapp2.2\stockbot.Data.fsproj.CopyComplete
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\obj\Debug\netcoreapp2.2\stockbot.Data.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\obj\Debug\netcoreapp2.2\stockbot.Data.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Data\bin\Debug\netcoreapp2.2\StockPrices.csv

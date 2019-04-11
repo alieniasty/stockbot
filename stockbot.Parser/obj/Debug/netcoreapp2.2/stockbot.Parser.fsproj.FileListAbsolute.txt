@@ -1,0 +1,14 @@
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Parser.deps.json
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Parser.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Parser.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Common.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Data.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Common.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\stockbot.Data.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\obj\Debug\netcoreapp2.2\stockbot.Parser.fsprojAssemblyReference.cache
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\obj\Debug\netcoreapp2.2\stockbot.Parser.AssemblyInfoInputs.cache
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\obj\Debug\netcoreapp2.2\stockbot.Parser.AssemblyInfo.fs
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\obj\Debug\netcoreapp2.2\stockbot.Parser.fsproj.CopyComplete
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\obj\Debug\netcoreapp2.2\stockbot.Parser.dll
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\obj\Debug\netcoreapp2.2\stockbot.Parser.pdb
+C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Parser\bin\Debug\netcoreapp2.2\StockPrices.csv

@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Parser\\stockbot.Parser.fsproj",
+    "projectName": "stockbot.Parser",
+    "projectPath": "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Parser\\stockbot.Parser.fsproj",
+    "outputPath": "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Parser\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Common\\stockbot.Common.fsproj": {
+            "projectPath": "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Common\\stockbot.Common.fsproj"
+          },
+          "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Data\\stockbot.Data.fsproj": {
+            "projectPath": "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Data\\stockbot.Data.fsproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "FSharp.Core": {
+          "target": "Package",
+          "version": "[4.5.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
