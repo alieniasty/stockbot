@@ -10,33 +10,22 @@
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netstandard2.0"
+      "net472"
     ],
     "frameworks": {
-      "netstandard2.0": {
+      "net472": {
         "projectReferences": {}
       }
     }
   },
   "frameworks": {
-    "netstandard2.0": {
+    "net472": {
       "dependencies": {
         "FSharp.Core": {
           "target": "Package",
           "version": "[4.5.2, )"
-        },
-        "NETStandard.Library": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.0.3, )",
-          "autoReferenced": true
         }
-      },
-      "imports": [
-        "net461"
-      ],
-      "assetTargetFallback": true,
-      "warn": true
+      }
     }
   }
 }

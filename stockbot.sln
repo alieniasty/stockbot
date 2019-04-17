@@ -12,6 +12,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Common", "stockbot
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Data", "stockbot.Data\stockbot.Data.fsproj", "{0782790F-4053-490D-B695-20ABC8FF398F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Analytics", "stockbot.Analytics\stockbot.Analytics.fsproj", "{AC41A1B5-0443-4A97-9464-2374CAB7E6DC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "stockbot.Visualise", "stockbot.Visualise\stockbot.Visualise.fsproj", "{9A279E3C-D99F-49C2-87DB-402B1EEAF5DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{0782790F-4053-490D-B695-20ABC8FF398F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0782790F-4053-490D-B695-20ABC8FF398F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0782790F-4053-490D-B695-20ABC8FF398F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC41A1B5-0443-4A97-9464-2374CAB7E6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC41A1B5-0443-4A97-9464-2374CAB7E6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC41A1B5-0443-4A97-9464-2374CAB7E6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC41A1B5-0443-4A97-9464-2374CAB7E6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A279E3C-D99F-49C2-87DB-402B1EEAF5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A279E3C-D99F-49C2-87DB-402B1EEAF5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A279E3C-D99F-49C2-87DB-402B1EEAF5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A279E3C-D99F-49C2-87DB-402B1EEAF5DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E2DDD96E-686D-47D8-A7EC-C405392A2739} = {32539D81-7C66-4F7A-B564-9DB4B9CB0CA8}

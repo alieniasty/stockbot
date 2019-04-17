@@ -10,10 +10,10 @@
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "net472"
     ],
     "frameworks": {
-      "netcoreapp2.2": {
+      "net472": {
         "projectReferences": {
           "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Parser\\stockbot.Parser.fsproj": {
             "projectPath": "C:\\Users\\Adrian\\Documents\\Repos\\stockbot\\stockbot.Parser\\stockbot.Parser.fsproj"
@@ -23,7 +23,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
+    "net472": {
       "dependencies": {
         "FSharp.Core": {
           "target": "Package",
@@ -32,12 +32,6 @@
         "Microsoft.NET.Test.Sdk": {
           "target": "Package",
           "version": "[16.0.1, )"
-        },
-        "Microsoft.NETCore.App": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.2.0, )",
-          "autoReferenced": true
         },
         "xunit": {
           "target": "Package",
@@ -55,12 +49,7 @@
           "target": "Package",
           "version": "[2.4.1, )"
         }
-      },
-      "imports": [
-        "net461"
-      ],
-      "assetTargetFallback": true,
-      "warn": true
+      }
     }
   }
 }

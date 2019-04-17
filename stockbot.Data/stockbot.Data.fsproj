@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netcoreapp2.2</TargetFramework>
         <AssemblyName>stockbot.Data</AssemblyName>
         <RootNamespace>stockbot.Data</RootNamespace>
+        <TargetFramework>net472</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
@@ -23,5 +23,9 @@
       <Content Include="StockPrices.csv">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.IO.Compression" />
     </ItemGroup>
 </Project>

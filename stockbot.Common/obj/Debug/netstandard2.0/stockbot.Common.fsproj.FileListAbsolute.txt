@@ -1,8 +1,0 @@
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\bin\Debug\netstandard2.0\stockbot.Common.deps.json
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\bin\Debug\netstandard2.0\stockbot.Common.dll
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\bin\Debug\netstandard2.0\stockbot.Common.pdb
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\obj\Debug\netstandard2.0\stockbot.Common.fsprojAssemblyReference.cache
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\obj\Debug\netstandard2.0\stockbot.Common.AssemblyInfoInputs.cache
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\obj\Debug\netstandard2.0\stockbot.Common.AssemblyInfo.fs
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\obj\Debug\netstandard2.0\stockbot.Common.dll
-C:\Users\Adrian\Documents\Repos\stockbot\stockbot.Common\obj\Debug\netstandard2.0\stockbot.Common.pdb
