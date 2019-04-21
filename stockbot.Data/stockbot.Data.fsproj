@@ -3,7 +3,7 @@
     <PropertyGroup>
         <AssemblyName>stockbot.Data</AssemblyName>
         <RootNamespace>stockbot.Data</RootNamespace>
-        <TargetFramework>net472</TargetFramework>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>

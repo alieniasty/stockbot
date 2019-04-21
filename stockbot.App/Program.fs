@@ -2,6 +2,7 @@
 open stockbot.Data
 open stockbot.Parser
 open stockbot.Visualise
+open Twilio
 
 [<EntryPoint>]
 let main argv =

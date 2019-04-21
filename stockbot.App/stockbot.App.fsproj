@@ -18,4 +18,12 @@
       <ProjectReference Include="..\stockbot.Visualise\stockbot.Visualise.fsproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Twilio" Version="5.28.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="App.config" />
+    </ItemGroup>
+
 </Project>

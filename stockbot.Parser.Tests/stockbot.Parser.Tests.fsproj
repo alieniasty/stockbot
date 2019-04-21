@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net472</TargetFramework>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
         <AssemblyName>stockbot.Parser.Tests</AssemblyName>
         <RootNamespace>stockbot.Parser.Tests</RootNamespace>
     </PropertyGroup>

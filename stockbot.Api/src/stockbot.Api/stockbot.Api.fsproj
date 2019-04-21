@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <DebugType>portable</DebugType>
+        <AssemblyName>stockbot.Api</AssemblyName>
+        <OutputType>Exe</OutputType>
+        <EnableDefaultContentItems>false</EnableDefaultContentItems>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.*" />
+        <PackageReference Include="Giraffe" Version="3.4.*" />
+        <PackageReference Include="TaskBuilder.fs" Version="2.1.*" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Include="Models\Message.fs" />
+        <Compile Include="Models\Notification.fs" />
+        <Compile Include="Handlers\TwilioCallbackHandler.fs" />
+        <Compile Include="Handlers\ErrorHandler.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="web.config" CopyToOutputDirectory="PreserveNewest" />
+        <Content Include="WebRoot\**\*">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\stockbot.Common\stockbot.Common.fsproj" />
+      <ProjectReference Include="..\..\..\stockbot.Data\stockbot.Data.fsproj" />
+      <ProjectReference Include="..\..\..\stockbot.Parser\stockbot.Parser.fsproj" />
+      <ProjectReference Include="..\..\..\stockbot.Visualise\stockbot.Visualise.fsproj" />
+    </ItemGroup>
+
+
+</Project>
